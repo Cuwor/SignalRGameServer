@@ -1,0 +1,63 @@
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/SignalRChat.dll.config
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/SignalRChat.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/SignalRChat.pdb
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.Core.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.SystemWeb.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Owin.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Owin.Security.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Newtonsoft.Json.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Owin.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.Core.xml
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.SystemWeb.xml
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Owin.xml
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Microsoft.Owin.Security.xml
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/bin/Newtonsoft.Json.xml
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/obj/Debug/SignalRChat.csprojResolveAssemblyReference.cache
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/obj/Debug/SignalRChat.dll
+C:/Users/Roma/Downloads/SignalR Getting Started Application/C#/SignalRChat/obj/Debug/SignalRChat.pdb
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/SignalRChat.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/SignalRChat.pdb
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.Core.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.SystemWeb.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Owin.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Owin.Security.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Web.Infrastructure.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Newtonsoft.Json.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Owin.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.Core.xml
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.AspNet.SignalR.SystemWeb.xml
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Owin.xml
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Microsoft.Owin.Security.xml
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/bin/Newtonsoft.Json.xml
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/obj/Debug/SignalRChat.csprojAssemblyReference.cache
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/obj/Debug/SignalRChat.csproj.CoreCompileInputs.cache
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/obj/Debug/SignalRChat.csproj.CopyComplete
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/obj/Debug/SignalRChat.dll
+/Users/tolstikovartem/Desktop/Unity3D Написание игрового сервера/writing-game-server-client-creation-unity3d-materials/Part1/SignalR Chat/C#/SignalRChat/obj/Debug/SignalRChat.pdb
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\SignalRChat.dll.config
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\SignalRChat.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\SignalRChat.pdb
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Owin.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Owin.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Owin.xml
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\obj\Debug\SignalRChat.dll
+\\Mac\Home\Desktop\Unity3D Написание игрового сервера\writing-game-server-client-creation-unity3d-materials\Part1\SignalR Chat\C#\SignalRChat\obj\Debug\SignalRChat.pdb
